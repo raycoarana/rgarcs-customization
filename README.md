@@ -18,4 +18,6 @@ TODO:
  - Fix playing videos (possible?)
  - Script to record video?
  - Update PortMaster to latest version installing missing dependencies
- - Add customized PortMaster mapping files (Carmageddon,...)
+ - Add customized PortMaster mapping files to repo (Carmageddon,...)
+ - Fix Solarus key mapping
+ - Scummvm mapping in Retroarch or update standalone to fix whites in BladeRunner
